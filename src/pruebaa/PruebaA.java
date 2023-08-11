@@ -17,6 +17,10 @@ public class PruebaA {
         
         System.out.println("Hola como estan");
         System.out.println("Soy Diego");
+        
+        System.out.println("");
+        System.out.println("Bien, gracias");
+        System.out.println("Soy Junnior y me gusta chupar pijas");
         // TODO code application logic here
     }
     
